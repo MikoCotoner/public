@@ -1,9 +1,9 @@
-# Battleship Mobile
+# Warship Mobile
  
 # School of Computing
 ### CA326 Year 3 Project Proposal Form
 #### SECTION A
-**Project Title** Clothsette
+**Project Title** Warship Mobile
  
 **Student 1 Name** Mikolaj Adamski     **ID Number** 17441622
  
