@@ -42,7 +42,7 @@ A player wins the game once they destroy all of their opponent’s ships.
 ## Programming Languages
 **Unity (C#)**: Developing the game and exporting to mobile device.
 
-**Node.js**: For servers.
+**Node.js**: The server for handling authentication and game sessions..
 
 ---
 
