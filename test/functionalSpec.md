@@ -61,4 +61,4 @@ We are afraid we aren't able to please a lot of users with our Android exclusive
 This would be the team’s first time creating a game, creating a server and also building a mobile app. Learning how to do all of these and actually applying it to our project will not be impossible but would just take a lot of time.
 
 ## System Architecture
-![System Architecture Diagram](file:/Users/melvincotoner/Desktop/Markdown/img1.png)
+![System Architecture Diagram](./img1.png)
